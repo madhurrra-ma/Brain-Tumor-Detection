@@ -82,8 +82,6 @@ The models are evaluated using:
 
 ---
 
-# Results
-
 
 
 # How to Use
@@ -107,20 +105,20 @@ Train the models using the provided data and evaluate their performance using me
 #### 5. Interpret Results:
 
 Analyze the model's performance using the visualizations and metrics provided in the notebook.
+
 ---
 
 # Future Improvements
 
-- Deployment using FastAPI/Flask
 - Integration with Cloud Platforms
+- Develop a full-stack web application for real-time brain MRI classification.
+- Implement user authentication and patient history management for clinical use.
 
 ---
 
-# Contributors
+# Contribution
 
-
-
----
+This project was developed as part of the **Medical Imaging Systems** course as a collaborative group project. 
 
 
 
