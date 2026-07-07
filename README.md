@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection using Deep Learning
 
-### MRI Brain Tumor Classification using Transfer Learning and TensorFlow
+### MRI Brain Tumor Classification using Deep Learning and TensorFlow
 
 
 
